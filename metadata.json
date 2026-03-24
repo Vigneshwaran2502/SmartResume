@@ -1,0 +1,5 @@
+{
+  "name": "SmartResume AI",
+  "description": "An intelligent resume builder that provides AI-powered suggestions and exports resumes as polished PDFs.",
+  "requestFramePermissions": []
+}
